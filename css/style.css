@@ -1,0 +1,33 @@
+body {background-color: red;} 
+
+.article {background-color: purple;}
+
+h1 {
+    font-size: 200%;
+    font-family: Helvetica;
+   }
+
+aside {
+    font-family: Helvetica;
+    font-size: 75%;
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 0%;
+    margin-top: 15px;
+    float: left;
+    background-color: purple;
+    
+}
+
+.left {
+    text-align: left;
+    margin: auto;
+    padding: 0px;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 10px
+  }
