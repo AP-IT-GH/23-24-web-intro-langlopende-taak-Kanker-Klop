@@ -1,22 +1,24 @@
-body {background-color: red;} 
+body {
+    background-color: red;
+    color: white;
+}
 
 .article {background-color: purple;}
 
+a {
+    color: lightblue;
+}
+
 h1 {
-    font-size: 200%;
-    font-family: Helvetica;
+    font-size: 250%;
    }
 
-aside {
-    font-family: Helvetica;
-    font-size: 75%;
-    width: 30%;
-    padding-left: 15px;
-    margin-left: 0%;
-    margin-top: 15px;
-    float: left;
+.bg-purple {
     background-color: purple;
-    
+}
+
+footer {
+    background-color: black;
 }
 
 .left {
